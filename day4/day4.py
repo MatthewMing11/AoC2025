@@ -1,4 +1,4 @@
-# Python script for day 3
+# Python script for day 4
 file = open("input.txt","r")
 total = 0
 grid=file.readlines()
